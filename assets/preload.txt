@@ -1,4 +1,3 @@
-i:b:/.gitkeep:178:1
 i:b:/Maps/marker1.tsx:681:1
 i:b:/Maps/marker2.tsx:727:1
 i:b:/Maps/overworld.tsx:2378:1

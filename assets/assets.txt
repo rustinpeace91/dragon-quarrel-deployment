@@ -1,4 +1,3 @@
-.gitkeep
 EventScreens/daking.jpg
 EventScreens/fistglass.jpg
 EventScreens/foulbeast.png
